@@ -166,15 +166,17 @@ color: var(--text-color);
 
 a:hover {
 color: darkblue;
-text-shadow: 1px 1px 1px darkslateblue;
+text-shadow: 1px 1px 1px rgb(168, 175, 179);
 text-decoration: underline;
+text-transform: uppercase;
+font-stretch: expanded;
 }
 
 a:visited {
   color: darkslateblue;
 }
 
-h3, h4, h5 {
+h3, h4, h5{
 letter-spacing: 3px;
 font-variant: small-caps;
 padding-left: 15px;
