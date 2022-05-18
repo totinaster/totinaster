@@ -1,0 +1,39 @@
+body {
+
+    background-image: url(paper.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    border: 1px solid black;
+    gap: 2px;
+
+}
+
+.col1 {
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+    border: 1px solid pink;
+    color: aqua;
+
+}
+
+.col2 {
+    display: grid;
+    grid-template-rows: auto;
+    border: 1px solid yellow;
+}
+
+.col1,
+.col2 {
+    text-align: center;
+
+}
+
+.row1,
+.row2 {
+    border: 1px solid green;
+}
