@@ -1,7 +1,7 @@
 :root {
   --main-color: white;
   --second-color: whitesmoke;
-  --text-color: darkblue;
+  --text-color: rgb(18, 100, 207);
 } 
 
 * {
@@ -10,7 +10,7 @@
 
 /*body*/
 body, html {
-  /* background-image: url("paper.png"); */
+  background-image: url("bitmapa.png");
   margin: 0;
   height: 100%;
   width: 100%;
