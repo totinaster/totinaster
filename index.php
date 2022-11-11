@@ -6,7 +6,7 @@
     <meta charset="UTF-8" />
     <link rel="stylesheet" type="text/css" href="style.css" />
     <link rel="icon" href="ucto.gif" type="image/gif" sizes="70x70" />
-    <!--<lin rel="stylesheet" href="https://fonts.googleapis.com/css?family=palatino light">-->
+    <!--<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=palatino light">-->
     <meta
       name="description"
       content="Založenie spoločnosti, otvorenie živnosti, 
@@ -37,64 +37,7 @@
   </head>
   <body>
     <header>
-      <div class="container">
-        <p class="item">
-          <a
-            href="https://www.firmaren.sk/zalozenie-zivnosti?utm_source=aff&utm_medium=dgt&a_aid=5cad8a017abda&a_bid=b91497f6&utm_source=aff&utm_medium=dgt&a_aid=5cad8a017abda&a_bid=719a5aa6"
-            target="_blank"
-          >
-            chcem si založiť živnosť
-          </a>
-        </p>
-        <p class="item">
-          <a
-            href="https://www.firmaren.sk/pozastavenie-zivnosti?utm_source=aff&utm_medium=dgt&a_aid=5cad8a017abda&a_bid=719a5aa6"
-            target="_blank"
-          >
-            chcem pozastaviť živnosť
-          </a>
-        </p>
-        <p class="item">
-          <a
-            href="https://www.firmaren.sk/zrusenie-zivnosti?utm_source=aff&utm_medium=dgt&a_aid=5cad8a017abda&a_bid=719a5aa6"
-            target="_blank"
-          >
-            chcem zrušiť živnosť
-          </a>
-        </p>
-        <p class="item">
-          <a
-            href="https://www.firmaren.sk/zalozenie-obcianskeho-zdruzenia?utm_source=aff&utm_medium=dgt&a_aid=5cad8a017abda&a_bid=719a5aa6"
-            target="_blank"
-          >
-            chcem občianske združenie
-          </a>
-        </p>
-        <p class="item">
-          <a
-            href="https://www.firmaren.sk/urob-si-sam-zalozenie-obcianskeho-zdruzenia?utm_source=aff&utm_medium=dgt&a_aid=5cad8a017abda&a_bid=719a5aa6"
-            target="_blank"
-          >
-            chcem pomoc pri založení občianskeho združenia
-          </a>
-        </p>
-        <p class="item">
-          <a
-            href="https://www.firmaren.sk/zalozenie-firmy?utm_source=aff&utm_medium=dgt&a_aid=5cad8a017abda&a_bid=719a5aa6"
-            target="_blank"
-          >
-            chcem založiť firmu
-          </a>
-        </p>
-        <p class="item">
-          <a
-            href="https://www.firmaren.sk/zmeny-vo-firme?utm_source=aff&utm_medium=dgt&a_aid=5cad8a017abda&a_bid=719a5aa6"
-            target="_blank"
-          >
-            chcem zmenu vo firme
-          </a>
-        </p>
-      </div>
+    <?php include 'header.html' ?>
     </header>
 
     <hr />
